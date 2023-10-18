@@ -1,0 +1,23 @@
+#main-container{
+    background-color: blanchedalmond;
+    outline: 1px solid black;
+    border-radius: 5px;
+    justify-self: center;
+    height: 300px;
+}
+
+.content-tabs{
+    width: 45%;
+}
+
+.home-tabs{
+    width: 10%;
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
